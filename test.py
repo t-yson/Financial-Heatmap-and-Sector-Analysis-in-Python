@@ -2,7 +2,8 @@
 # Tyson Dailey
 # Market Sector Heatmap
 
-#type 'py -3.12 -m streamlit run test.py' in consoleon project directory
+#type 'py -3.12 -m streamlit run test.py' in console under project directory
+#pip install of certain packages required before installing
 # =============================================================================
 #import numpy as np
 #import matplotlib.pyplot as plt
